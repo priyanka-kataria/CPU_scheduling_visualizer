@@ -1,0 +1,5 @@
+{
+  "name": "CPU Scheduling Visualizer",
+  "description": "A high-performance interactive tool for simulating and comparing CPU scheduling algorithms (FCFS, SJF, SRTF, RR, Priority) with real-time Gantt charts and performance analytics.",
+  "requestFramePermissions": []
+}
